@@ -1,0 +1,9 @@
+{
+  "name": "clink-forge-quickstart",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "viem": "^2.0.0",
+    "x402-fetch": "^1.2.0"
+  }
+}
